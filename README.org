@@ -1,1 +1,5 @@
-# operational-research-practicals
+* Operational Research Practicals
+
+** Practical 1 : Discovering [[https://www.gnu.org/software/glpk/][GNU Linear Programming Kit]] 
+
+
